@@ -1,6 +1,6 @@
-# 🌿 Ayyvira Naturals — Website
+# 🌿 Ayvira Naturals — Website
 
-A complete, responsive static website for the Ayyvira Naturals skincare brand.  
+A complete, responsive static website for the Ayvira Naturals skincare brand.  
 Built with pure HTML5, CSS3, and Vanilla JavaScript. No frameworks, no dependencies.
 
 ---
@@ -8,7 +8,7 @@ Built with pure HTML5, CSS3, and Vanilla JavaScript. No frameworks, no dependenc
 ## 📁 Folder Structure
 
 ```
-ayyvira/
+Ayvira/
 ├── index.html          ← Home page
 ├── about.html          ← About / Brand Story page
 ├── products.html       ← Product catalogue with filter
@@ -78,7 +78,7 @@ const FORMSPREE_ID = 'xpwzabcd';
 ### Step 1 — Create a GitHub Repository
 
 1. Go to **https://github.com/new**
-2. Name it `ayyvira-naturals` (or any name you prefer)
+2. Name it `Ayvira-naturals` (or any name you prefer)
 3. Make it **Public**
 4. Click **"Create repository"**
 
@@ -92,12 +92,12 @@ const FORMSPREE_ID = 'xpwzabcd';
 
 **Option B — Via Git CLI:**
 ```bash
-cd /path/to/ayyvira/
+cd /path/to/Ayvira/
 git init
 git add .
 git commit -m "Initial website commit"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/ayyvira-naturals.git
+git remote add origin https://github.com/YOUR_USERNAME/Ayvira-naturals.git
 git push -u origin main
 ```
 
@@ -115,7 +115,7 @@ git push -u origin main
 After ~1 minute your site will be live at:
 
 ```
-https://YOUR_USERNAME.github.io/ayyvira-naturals/
+https://YOUR_USERNAME.github.io/Ayvira-naturals/
 ```
 
 GitHub will show a "Your site is live at…" banner at the top of the Pages settings.
@@ -150,5 +150,5 @@ Mobile-first responsive design tested at 320px → 1440px+.
 
 ---
 
-*Made with 🌿 — Ayyvira Naturals, Tamil Nadu, India*
+*Made with 🌿 — Ayvira Naturals, Tamil Nadu, India*
 

@@ -1,5 +1,5 @@
 /* ============================================================
-   Ayyvira Naturals — Main JavaScript
+   Ayvira Naturals — Main JavaScript
    ============================================================ */
 
 /* ── Sticky Nav Shadow ── */
