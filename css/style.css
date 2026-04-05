@@ -1057,7 +1057,7 @@ footer {
 .img-placeholder {
   width     : 100%;
   height    : 100%;
-  background: linear-gradient(135deg, var(--pale-green) 0%, #c8e6c9 100%);
+  /* background: linear-gradient(135deg, var(--pale-green) 0%, #c8e6c9 100%); */
   display   : flex;
   align-items: center;
   justify-content: center;
